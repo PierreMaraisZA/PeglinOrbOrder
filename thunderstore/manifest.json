@@ -1,0 +1,9 @@
+{
+  "name": "PeglinOrbOrder",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/PierreMaraisZA/PeglinOrbOrder",
+  "description": "Weights every orb's place in the sack so support orbs are drawn earlier more often, while Pebballs and plain damage orbs stay equal.",
+  "dependencies": [
+    "BepInEx-BepInExPack_Peglin-5.4.2100"
+  ]
+}
